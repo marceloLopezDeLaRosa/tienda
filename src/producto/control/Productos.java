@@ -1,7 +1,7 @@
 package producto.control;
 
 import producto.entity.Producto;
-
+// este archivo esta modificado
 public class Productos {
 
 	private Producto[] productos;
