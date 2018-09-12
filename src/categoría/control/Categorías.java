@@ -7,7 +7,9 @@ import categoría.entity.Categoría;
 import categoría.entity.NoExisteCategoría;
 
 public class Categorías {
+	// Esta es una línea que añadí
 	
+	// Esta es otra
 	//Nueva modificación desde Linux Mint
 
 	private HashSet<Categoría> categorías;
