@@ -10,6 +10,7 @@ public class Categorías {
 	// Esta es una línea que añadí
 	
 	// Esta es otra
+	//Re nueva
 	//Nueva modificación desde Linux Mint
 
 	private HashSet<Categoría> categorías;
