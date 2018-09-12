@@ -8,6 +8,7 @@ import categoría.entity.NoExisteCategoría;
 
 public class Categorías {
 	//Esta es una modificación de Windows
+    //Esta es una modificación de Linux Mint
 	private HashSet<Categoría> categorías;
 
 	public Categorías() {
